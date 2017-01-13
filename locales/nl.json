@@ -1,7 +1,7 @@
 {
-	"Hello": "Hello",
+	"Hello": "Hallo",
 	"%s cat": {
-		"one": "%s cat",
-		"other": "%s cats"
+		"one": "%s kat",
+		"other": "%s katten"
 	}
 }
